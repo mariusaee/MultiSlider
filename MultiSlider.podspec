@@ -21,7 +21,6 @@ Pod::Spec.new do |s|
   s.source_files  = "Sources/*.swift"
   s.resources = ['PrivacyInfo.xcprivacy']
 
-  s.dependency 'SweeterSwift'
   s.dependency 'AvailableHapticFeedback'
 
   s.pod_target_xcconfig = { 'LD_RUNPATH_SEARCH_PATHS' => '$(FRAMEWORK_SEARCH_PATHS)' } # fix Interface Builder render error

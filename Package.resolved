@@ -9,15 +9,6 @@
           "revision": "9b2e0d85b532333bcb026b850052575852659d18",
           "version": "1.0.4"
         }
-      },
-      {
-        "package": "SweeterSwift",
-        "repositoryURL": "https://github.com/mariusaee/SweeterSwift",
-        "state": {
-          "branch": null,
-          "revision": "f797166bebe418d0eb21b3d59024180379076668",
-          "version": "1.0.4"
-        }
       }
     ]
   },
