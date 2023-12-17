@@ -7,7 +7,6 @@
 //
 
 import AvailableHapticFeedback
-import SweeterSwift
 import UIKit
 
 @IBDesignable
